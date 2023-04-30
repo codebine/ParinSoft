@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/parinsoft/static/css/main.191331c9.css",
-    "main.js": "/parinsoft/static/js/main.bb151ac5.js",
+    "main.css": "/parinsoft/static/css/main.a903a921.css",
+    "main.js": "/parinsoft/static/js/main.2667736a.js",
     "static/media/Unsplash.jpg": "/parinsoft/static/media/Unsplash.e5dfb933c06a5b46cd0c.jpg",
     "static/media/about.jpg": "/parinsoft/static/media/about.8498bb5a6bb57ce22b96.jpg",
     "static/media/demo-img-6.jpg": "/parinsoft/static/media/demo-img-6.93c2037dc54f9ea1208a.jpg",
@@ -10,11 +10,11 @@
     "static/media/demo-img-2.jpg": "/parinsoft/static/media/demo-img-2.0f6d8b119154c2c9024a.jpg",
     "static/media/logo.png": "/parinsoft/static/media/logo.38baa0705bdacb6e0c42.png",
     "index.html": "/parinsoft/index.html",
-    "main.191331c9.css.map": "/parinsoft/static/css/main.191331c9.css.map",
-    "main.bb151ac5.js.map": "/parinsoft/static/js/main.bb151ac5.js.map"
+    "main.a903a921.css.map": "/parinsoft/static/css/main.a903a921.css.map",
+    "main.2667736a.js.map": "/parinsoft/static/js/main.2667736a.js.map"
   },
   "entrypoints": [
-    "static/css/main.191331c9.css",
-    "static/js/main.bb151ac5.js"
+    "static/css/main.a903a921.css",
+    "static/js/main.2667736a.js"
   ]
 }
